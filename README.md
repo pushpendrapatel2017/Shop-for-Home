@@ -36,5 +36,5 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
   
  ## Database Schema
 
-![](![Databaseschema](https://user-images.githubusercontent.com/47891452/180617424-90999a0c-298e-4c1a-bb59-128ae47efd53.png)
+![](![DBSchema](https://user-images.githubusercontent.com/47891452/180618937-fa66e737-fb4d-4e2b-b771-d01a1b198c13.png))
 
