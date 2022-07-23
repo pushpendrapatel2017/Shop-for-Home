@@ -1,1 +1,1 @@
-# Shop-for-Home
+### ShopForHome Application (Angular with SpringBoot Web Services)
