@@ -12,6 +12,7 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
 **User**
   - Registering into System
   - Login into Website
+  - Logout from Website
   - Updating Address
   - Adding product to Cart
   - Updating/ Deleting the Product
@@ -19,8 +20,8 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
 
 ## Technology Stacks
 **Backend**
-  - Java 11
-  - Spring Boot 2.2
+  - Java 8
+  - Spring Boot
   - Spring Security
   - JWT Authentication
   - Spring Data JPA
@@ -32,3 +33,8 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
   - Angular 7
   - Angular CLI
   - Bootstrap
+  
+ ## Database Schema
+
+![](![Databaseschema](https://user-images.githubusercontent.com/47891452/180617424-90999a0c-298e-4c1a-bb59-128ae47efd53.png)
+
