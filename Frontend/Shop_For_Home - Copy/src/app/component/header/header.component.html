@@ -19,18 +19,18 @@
     <button routerLink="discount" class="btn btn-primary" *ngIf="confirmRole()">
       <i class='fas fa-percentage' style='font-size:36px; color: white;'>
         <div style="font-size: 10px;" class="badge bg-danger">3</div>
-      </i>Discount
+      </i>   Discount
     </button>
 
     <button routerLink="wishlist" class="btn btn-primary" *ngIf="confirmRole()">
       <i style="font-size: 30px; color: white" class="fas fa-heart">
         <div style="font-size: 10px;" class="badge bg-danger">{{totalWishedItem}}</div>
-      </i>wishlist
+      </i>   wishlist
     </button>
     <button routerLink="cart" class="btn btn-primary" *ngIf="confirmRole()">
       <i style="font-size: 30px; color: white" class="fas fa-cart-plus">
         <div style="font-size: 10px;" class="badge bg-danger">{{totalItem}}</div>
-      </i>Cart
+      </i>   Cart
     </button>
   </div>
 </header>
